@@ -1,4 +1,6 @@
-I built a complex server and accessed data through a database. The following skills were required to complete this project:
+I built a complex server and accessed data through a database. 
+
+The following skills were required to complete this project:
 
 1.Install and use common middleware packages
 
@@ -25,6 +27,7 @@ I built a complex server and accessed data through a database. The following ski
 12.Deploy your backend server to a cloud service
 
 Built With:
+
 Express,
 
 Node.js,
