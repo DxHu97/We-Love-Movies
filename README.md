@@ -1,7 +1,9 @@
 I built a complex server and accessed data through a database. The following skills were required to complete this project:
 
 1.Install and use common middleware packages
+
 2.Receive requests through routes
+
 3.Run tests from the command line
 4.Access relevant information through route and query parameters
 5.Create an error handler for the case where a route doesn't exist
